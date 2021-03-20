@@ -1,0 +1,105 @@
+nav,
+article,
+aside,
+footer section {
+    margin: 0 auto;
+    width: 900px;
+}
+
+nav {
+    margin-top: 25px;
+}
+
+aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+}
+
+#logo img {
+    float: left;
+}
+
+nav ul {
+    float: right;
+}
+
+nav li {
+    float: left;
+    padding-right: 2px;
+}
+
+.date {
+    float: left;
+}
+
+.print img {
+    margin-right: 3px;
+}
+
+aside img {
+    float: left;
+}
+
+.print,
+.date {
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 33px;
+}
+
+.print {
+    padding-left: 30px;
+    float: right;
+}
+
+.recipe {
+    padding: 37px 0 0 60px;
+    margin: 40px 0;
+}
+
+.recipe li {
+    float: left;
+    width: 40%;
+}
+
+aside h3 {
+    padding-left: 100px;
+    padding-bottom: 10px;
+}
+
+aside p {
+    padding-left: 100px;
+    margin: 0;
+}
+
+aside button {
+    float: right;
+    padding: 15px 40px;
+}
+
+footer section p {
+    padding: 50px 0;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+main p {
+    text-indent: 30px;
+    margin: 20px 0px;
+}
+
+#logo {
+    float: left;
+    padding-bottom: 25px;
+}
+
+#logo h1 {
+    padding-left: 50px;
+}
+
+#slogan {
+    width: 250px;
+    padding-left: 55px;
+}
